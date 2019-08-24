@@ -5,9 +5,9 @@ Given the large number of industries and problems that fall under the umbrella o
 ![CRISP-DM](CRISP_DM.PNG)
 ### 1. Business Understanding
 We want to analyze the trends, correlations and expectations of top 10 programmming languages in 2019. So we start with the following questions in mind: 
-	1. Which languages were most popular in each year from 2011 to 2019? Which language has gained most usage during the period of 2011-2019? Which language has lost the biggest ground duing this same period?
-	1. What are the correlations between different programming languages in 2019? What are the correlations between languages and developer types? What were the correlations between different programming languages in 2011?
-	1. What are the salary expectations for a programming language user in 2019? What was the salary expectations for a programming language user in 2011?
+1. Which languages were most popular in each year from 2011 to 2019? Which language has gained most usage during the period of 2011-2019? Which language has lost the biggest ground duing this same period?
+1. What are the correlations between different programming languages in 2019? What are the correlations between languages and developer types? What were the correlations between different programming languages in 2011?
+1. What are the salary expectations for a programming language user in 2019? What was the salary expectations for a programming language user in 2011?
 ### 2. Data Understanding
 Here we used the StackOverflow survey data from year 2011 to year 2019 to attempt to answer our questions of interest. We did 1. and 2. in tandem in this case, using the data to help us arrive at our questions of interest. Since the stucture of survey data varies a lot each year, so we need to look into the structure more deeply to get a good understanding of the problems in hand. 
 ### 3. Data Preparation
