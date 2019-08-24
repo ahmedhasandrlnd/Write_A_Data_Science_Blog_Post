@@ -16,11 +16,11 @@ This is commonly denoted as 80% of the process. From working with missing data t
 We were finally able to model the data, but we had some back and forth with step 3. before we were able to build a model that had okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modeling technique, we did little to test that other approaches were better within this lesson.  If a question does not require machine learning, descriptive or inferential statistics should be used to create a compelling answer to a particular question.
 ### 5. Evaluation
 Results are the findings from our wrangling and modeling. They are the answers you found to each of the questions.
-	1. ** Trends of top 10 programming languages (2011–2019)**
+1. Trends of top 10 programming languages (2011–2019)
 	![ranking](ranking.PNG)
-	1. ** Correlated programming languages**
+1. Correlated programming languages
 	![correlations.PNG]
-	1. ** Salary Expectation**
+1. Salary Expectation
 	![salary](salary.PNG)
 ### 6. Deployment
 Deploying can occur by moving our approach into production or by using our results to persuade others within a company to act on the results. Communication is such an important part of the role of a data scientist. Here we have publish our findings to the online community by a [Medium blog post](https://medium.com/@hasan.ahmedmonjurul/top-10-programming-languages-in-2019-fbe63b059319)
