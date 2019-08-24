@@ -13,7 +13,7 @@ Here we used the StackOverflow survey data from year 2011 to year 2019 to attemp
 ### 3. Data Preparation
 This is commonly denoted as 80% of the process. From working with missing data to finding a way to work with categorical variables, and we didn't even look for outliers or attempt to find points we were especially poor at predicting. There was ton more we could have done to wrangle the data, but you have to start somewhere, and then you can always iterate.
 ### 4. Modeling
-We were finally able to model the data, but we had some back and forth with step 3. before we were able to build a model that had okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modeling technique, we did little to test that other approaches were better within this lesson.  If a question does not require machine learning, descriptive or inferential statistics should be used to create a compelling answer to a particular question.
+We were finally able to model the data, but we had some back and forth with step 3. before we were able to build a model that had okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modeling technique, we did little to test that other approaches were better within this lesson.  Since none of our questions  requires machine learning, descriptive or inferential statistics are used to create a compelling answers to all questions.
 ### 5. Evaluation
 Results are the findings from our wrangling and modeling. They are the answers you found to each of the questions.
 1. **Trends of top 10 programming languages (2011–2019):**
