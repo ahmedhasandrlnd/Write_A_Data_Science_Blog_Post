@@ -16,13 +16,13 @@ This is commonly denoted as 80% of the process. From working with missing data t
 We were finally able to model the data, but we had some back and forth with step 3. before we were able to build a model that had okay performance. There still may be changes that could be done to improve the model we have in place. From additional feature engineering to choosing a more advanced modeling technique, we did little to test that other approaches were better within this lesson.  If a question does not require machine learning, descriptive or inferential statistics should be used to create a compelling answer to a particular question.
 ### 5. Evaluation
 Results are the findings from our wrangling and modeling. They are the answers you found to each of the questions.
-1. Trends of top 10 programming languages (2011–2019)
+1. **Trends of top 10 programming languages (2011–2019):**
  If we look at the usage ranking of top 10 programming languages from 2011 to 2019, we would see some interesting trends. JavaScript and SQL remain the top two programming languages for quite some time, but Python seems the fastest growing major programming language. The booming interest in Artificial Interest and machine learning is fueling the acceleration of interest in Python. During the last three years, Python has edged out PHP, C# and Java and it is now the third used language among the developers. C# seems to be losing the ground among the developers faster than other major programming language.
 	![ranking](ranking.PNG)
-1. Correlated programming languages
+1. **Correlated programming languages:**
 Since most developers tend to use multiple programming languages, there is some correlation between different programming languages. So if a developer is using C, there is a strong probability that he/she is also using C++. Developers also tend to use JavaScript, PHP and SQL together. There is also some strong correlations between C# and SQL and C,C++ and Python.
 	![correlations](correlations.PNG)
-1. Salary Expectation
+1. **Salary Expectation:**
 By analyzing developer’s annual salary and their programming language usages, we can get the expectation in learning top 10 programming languages in terms of mean salaries and 95% confidence limits. The 95% confidence limits depend on the number of responses. For higher number of responses, the 95% confidence limit gets narrower and for lower number of responses, the 95% confidence limit gets wider. From our analysis, developers who are using Ruby programming language are getting the highest mean salary, followed by Python and Objective-C users.
 	![salary](salary.PNG)
 ### 6. Deployment
