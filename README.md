@@ -19,7 +19,7 @@ Results are the findings from our wrangling and modeling. They are the answers y
 1. Trends of top 10 programming languages (2011–2019)
 	![ranking](ranking.PNG)
 1. Correlated programming languages
-	![correlations.PNG]
+	![correlations](correlations.PNG)
 1. Salary Expectation
 	![salary](salary.PNG)
 ### 6. Deployment
